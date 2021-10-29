@@ -1,6 +1,6 @@
 ### Olá! Me chamo Carlos Eduardo.
 
-- 🔭 Sou atualmente Desenvolvedor Back-End Junior
+<!-- - 🔭 Sou atualmente Desenvolvedor Back-End Junior -->
 - 🌱 Estudando: Framework Flutter | Framework Electron
 
 <!--Mais configurações em: https://github.com/anuraghazra/github-readme-stats -->
