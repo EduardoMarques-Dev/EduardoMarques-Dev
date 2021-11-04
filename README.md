@@ -9,9 +9,9 @@
 
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no IFPA.
-- 💼 Estagiando: Advocacia Geral da União.
-- 🌱 Estudando: Framework Flutter | Framework Electron
+- 🎓 Cursando: **Análise e Desenvolvimento de Sistemas**, IFPA.
+- 💼 Estágiando: Advocacia Geral da União.
+- 🌱 Estudando: Framework Flutter | Framework Electron | Docker
 
 <!-- 
 ===========================================================
@@ -45,7 +45,7 @@ Mais configurações em: https://github.com/devicons/devicon/tree/master/icons
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
-
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 > **Ferramentas de Desenvolvimento**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
