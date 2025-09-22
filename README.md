@@ -10,7 +10,6 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Cursando: **Análise e Desenvolvimento de Sistemas**, IFPA.
-- 💼 Estágiando: Advocacia Geral da União.
 - 🌱 Estudando: Framework Flutter | Framework Electron | Docker
 
 <!-- 
